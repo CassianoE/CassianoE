@@ -1,4 +1,4 @@
-<p align="center">I ❤️ solve great challenges using tech.</p>&nbsp;
+<h1 align="center">Hi There! 👋 My name is Cassiano Eduardo</h1>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CassianoE&theme=dark&mode=weekly" />
