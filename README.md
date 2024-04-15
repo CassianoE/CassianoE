@@ -2,7 +2,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=CassianoE&theme=dark&mode=weekly" />
-<img width=42,5% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=CassianoE&show_icons=true&theme=dark&layout=compact" />
+<img width=42.5% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=CassianoE&show_icons=true&theme=dark&layout=compact" />
  </div>
  
  &nbsp;
